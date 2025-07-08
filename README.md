@@ -1,16 +1,28 @@
-## Hi there 👋
+🌊 Deniz Taş — Hoş geldin!
+👋 Merhaba! Ben Deniz
+🎓 Antalya Bilim Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim.
 
-<!--
-**deniztash/deniztash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 Yapay zekâ, veri bilimi (data science) ve makine öğrenmesi (ML) konularına özel ilgi duyuyorum.
 
-Here are some ideas to get you started:
+💻 Ayrıca web teknolojileriyle (frontend & backend) projeler geliştiriyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Şu anda hem akademik hem de kişisel projelerle kendimi sürekli geliştiriyorum.
+
+📍 Antalya, Türkiye
+
+🚀 İlgi Alanlarım
+Yapay zekâ & Makine Öğrenmesi
+
+Veri Bilimi & Veri Görselleştirme
+
+Web Geliştirme (React, Node.js, Express)
+
+Derin Öğrenme & NLP
+
+💼 Hedefim
+Teknolojiyi insan hayatını kolaylaştıracak akıllı çözümler üretmek için kullanmak ve sürekli öğrenmeye devam etmek.
+
+📫 Bana Ulaş
+LinkedIn: https://www.linkedin.com/in/deniz-ta%C5%9F-aa4877296/
+
+E-posta: tasdeniz822@gmail.com
